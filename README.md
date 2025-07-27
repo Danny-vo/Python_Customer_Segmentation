@@ -1,4 +1,4 @@
-Indidivual Project for BUSA8001 unit
+Indidivual Project
 
 Objective: Identify distinct customer segments based on a dataset of 2,000 customers with their information on bookings and their interactions with the travel agency (7 variables). Based on common characteristic, customers can be divided into different groups and companies can market them effectively. 
 
